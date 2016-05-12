@@ -1,0 +1,12 @@
+
+.main{
+ width: 400px;
+ height: 100%;
+ margin: 0 auto;
+}
+
+
+.greeting{
+	font-size: 20px;
+	letter-spacing: 2px;
+}
